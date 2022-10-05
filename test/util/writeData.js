@@ -4,28 +4,28 @@ function writeData() {
     const result = excelToJson({
         sourceFile: 'data/CTKM-tháng-10.xlsx',
         header: {
-            rows: 2 
+            rows: 1
         },
-        sheets: ['CTKM tháng 09'],
+        sheets: ['CTKM tháng 10'],
         columnToKey: {
-            A: "{{A2}}",
-            B: "{{B2}}",
-            C: "{{C2}}",
-            D: "{{D2}}",
-            E: "{{E2}}",
-            F: "{{F2}}",
-            G: "{{G2}}",
-            H: "{{H2}}",
-            I: "{{I2}}",
-            J: "{{J2}}",
-            K: "{{K2}}",
-            L: "{{L2}}",
-            M: "{{M2}}",
-            N: "{{N2}}",
+            A: "{{A1}}",
+            B: "{{B1}}",
+            C: "{{C1}}",
+            D: "{{D1}}",
+            E: "{{E1}}",
+            F: "{{F1}}",
+            G: "{{G1}}",
+            H: "{{H1}}",
+            I: "{{I1}}",
+            J: "{{J1}}",
+            K: "{{K1}}",
+            L: "{{L1}}",
+            M: "{{M1}}",
+            N: "{{N1}}",
         }
     });
     const data = JSON.stringify(result, null, 4);
-    fs.writeFile('data/dataExcel.json', data, (err) => {
+    fs.writeFile('data/CTKM-tháng-10.json', data, (err) => {
         if (err) {
             throw err;
         }
