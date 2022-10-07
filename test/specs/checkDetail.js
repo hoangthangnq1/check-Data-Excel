@@ -5,11 +5,10 @@ const dataExcel = require('../../data/CTKM-tháng-10.json');
 
 describe('Web Ecom', () => {
     beforeAll(async () => {
-        writeData();
-         
+        writeData();  
         console.log("data " + dataExcel['CTKM tháng 10'].length);
     });   
-    var prodNotPromotion = ['00033673']; //truyền mã sản phẩm muốn check
+    var prodNotPromotion = ['00033673','00033674','00033675']; //truyền mã sản phẩm muốn check
         for (let i = 0; i < dataExcel['CTKM tháng 10'].length; i++){
         if (prodNotPromotion.indexOf(dataExcel['CTKM tháng 10'][i]['Mã SP'])>= 0){
             it('check sản phẩm ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {
