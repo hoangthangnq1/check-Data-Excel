@@ -7,12 +7,12 @@ describe('Web Ecom', () => {
     beforeAll(async () => {
         writeData();
     });
-    var prodNotPromotion = ['00022587']; //truyền mã sản phẩm không muốn check
-    for (let i = 0; i < 68; i++){
+    var prodNotPromotion = ['00033673']; //truyền mã sản phẩm không muốn check
+    for (let i = 0; i < dataExcel['CTKM tháng 10'].length; i++){
         if (prodNotPromotion.indexOf(dataExcel['CTKM tháng 10'][i]['Mã SP'])>= 0){
             continue;
         }
-        it('check sản phẩm giảm giá', async () => {
+        it('check sản phẩm ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {
             await HomePage.open('https://nhathuoclongchau.com/');
             await HomePage.searchMedicine(dataExcel['CTKM tháng 10'][i]['Mã SP']);
             await HomePage.pauseBrowser(2000);

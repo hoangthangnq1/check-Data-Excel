@@ -6,11 +6,13 @@ const dataExcel = require('../../data/CTKM-tháng-10.json');
 describe('Web Ecom', () => {
     beforeAll(async () => {
         writeData();
-    });
-    var prodNotPromotion = ['00022587']; //truyền mã sản phẩm muốn check
-    for (let i = 0; i < 68; i++){
+         
+        console.log("data " + dataExcel['CTKM tháng 10'].length);
+    });   
+    var prodNotPromotion = ['00033673']; //truyền mã sản phẩm muốn check
+        for (let i = 0; i < dataExcel['CTKM tháng 10'].length; i++){
         if (prodNotPromotion.indexOf(dataExcel['CTKM tháng 10'][i]['Mã SP'])>= 0){
-            it('check sản phẩm giảm giá', async () => {
+            it('check sản phẩm ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {
                 await HomePage.open('https://nhathuoclongchau.com/');
                 await HomePage.searchMedicine(dataExcel['CTKM tháng 10'][i]['Mã SP']);
                 await HomePage.pauseBrowser(2000);
@@ -18,7 +20,9 @@ describe('Web Ecom', () => {
                 await ProductInfoPage.verifyPriceDefault(dataExcel['CTKM tháng 10'][i]['Giá bán']); //check giá bán gốc
             });
         }
-    }
+    } 
+            
+        
 });
 
 

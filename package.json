@@ -10,8 +10,8 @@
         "chromedriver": "^105.0.1",
         "wdio-chromedriver-service": "^8.0.0",
         "wdio-timeline-reporter": "^5.1.4",
-        "convert-excel-to-json": "^1.7.0"
-
+        "convert-excel-to-json": "^1.7.0",
+        "expect-webdriverio": "^3.4.0"
     },
     "scripts": {
         "detail": "npx wdio wdio.conf.js --spec ./test/specs/checkDetail.js",

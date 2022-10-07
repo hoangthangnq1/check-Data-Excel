@@ -1,3 +1,4 @@
+const path = require("path");
 const { TimelineService } = require('wdio-timeline-reporter/timeline-service');
 exports.config = {
     //
@@ -248,9 +249,11 @@ exports.config = {
      */
     afterTest: async function(test, context, { error, result, duration, passed, retries }) {
         if (passed) {
+            console.log(test);
             return 
           } else {
             let imageObj = await test; //object
+            console.log(test);
             let title = JSON.stringify(imageObj.description).toString(); // đổi sang dạng json để lấy đối tượng
             let filename = title.replace(/"/g, ' ').replace(/[_/s]/g, "").replace(/"/g, '').replace("-", "_"); // replace đầu tiên dấu ""/ replace thứ 2 là
             var filePath = path.join(process.cwd(), "./allure-results/" + "TESTFAIL_" + filename + ".png");

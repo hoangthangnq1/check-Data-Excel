@@ -26,6 +26,7 @@ class HomePage extends Page {
         await this.inputMain.click();
         await this.inputMain.setValue(nameMedicine);
         await this.productSuggest.waitForDisplayed({timeout: 20000})
+        await this.productSuggest.waitForClickable({timeout: 20000})
         await this.productSuggest.click();
     }
 }
