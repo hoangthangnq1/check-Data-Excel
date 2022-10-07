@@ -255,7 +255,7 @@ exports.config = {
             let imageObj = await test; //object
             let title = JSON.stringify(imageObj.description).toString(); // đổi sang dạng json để lấy đối tượng
             let filename = title.replace(/"/g, ' ').replace(/[_/s]/g, "").replace(/"/g, '').replace("-", "_"); // replace đầu tiên dấu ""/ replace thứ 2 là
-            var filePath = path.join(process.cwd(), "./allure-results/" + "TESTFAIL_" + filename + ".png");
+            var filePath = path.join(process.cwd(), "./screenshot/" + "TESTFAIL_" + filename + ".png");
             browser.saveScreenshot(filePath)
             console.log('/tSaved screenshot: ', filePath);
           }
