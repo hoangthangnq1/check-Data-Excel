@@ -17,7 +17,7 @@ class ProductInfoPage extends Page {
         console.log("price: " + await this.priceDefault.getValue());
         await this.priceDefault.waitForExist({timeout : 20000});
         let priceWeb = await this.priceDefault.getValue();
-        expect(Number(priceWeb)).toEqual((priceExcel), { message: 'Sai giá gốc', });
+        expect(Number(priceWeb)).toEqual((priceExcel), { message: 'Sai giá bán', });
     }
     async verifyDetailFinalPrice(priceExcel){ //check giá sau khi giảm     
         await this.detailFinalPrice.waitForExist({timeout : 20000});

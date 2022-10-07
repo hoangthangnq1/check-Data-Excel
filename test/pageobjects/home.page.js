@@ -24,7 +24,9 @@ class HomePage extends Page {
 
     async searchMedicine (nameMedicine) {
         await this.inputMain.click();
+        await this.inputMain.setValue("");
         await this.inputMain.setValue(nameMedicine);
+        await super.pauseBrowser(2800);
         await this.productSuggest.waitForDisplayed({timeout: 20000})
         await this.productSuggest.waitForClickable({timeout: 20000})
         await this.productSuggest.click();
