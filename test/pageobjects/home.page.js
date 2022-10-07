@@ -21,12 +21,27 @@ class HomePage extends Page {
     get productSuggest() { 
         return browser.$("//div[contains(@class,'products-suggest')]");
     }
+    get buyProductNow() { 
+        return browser.$("//a[contains(text(), 'MUA THUỐC NGAY')]");
+    }
+    
 
     async searchMedicine (nameMedicine) {
         await this.inputMain.click();
         await this.inputMain.setValue("");
         await this.inputMain.setValue(nameMedicine);
-        await super.pauseBrowser(2800);
+        await this.productSuggest.waitForDisplayed({timeout: 20000})
+        await this.productSuggest.waitForClickable({timeout: 20000})
+        await this.productSuggest.click();
+    }
+
+    async searchMedicine2 (nameMedicine) {
+        await this.buyProductNow.scrollIntoView();
+        await this.pauseBrowser(1000);
+        await this.buyProductNow.click();
+        await this.inputMain.click();
+        await this.inputMain.setValue("");
+        await this.inputMain.setValue(nameMedicine);
         await this.productSuggest.waitForDisplayed({timeout: 20000})
         await this.productSuggest.waitForClickable({timeout: 20000})
         await this.productSuggest.click();

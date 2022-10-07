@@ -253,7 +253,6 @@ exports.config = {
             return 
           } else {
             let imageObj = await test; //object
-            console.log(test);
             let title = JSON.stringify(imageObj.description).toString(); // đổi sang dạng json để lấy đối tượng
             let filename = title.replace(/"/g, ' ').replace(/[_/s]/g, "").replace(/"/g, '').replace("-", "_"); // replace đầu tiên dấu ""/ replace thứ 2 là
             var filePath = path.join(process.cwd(), "./allure-results/" + "TESTFAIL_" + filename + ".png");

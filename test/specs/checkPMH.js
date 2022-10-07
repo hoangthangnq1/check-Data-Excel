@@ -16,15 +16,15 @@ describe('Web Ecom', () => {
         }
         await emptyFolder(dir);
     });   
-    var prodNotPromotion = ['00033621','00008392','00500273','00029571','00031148']; //truyền mã sản phẩm muốn check
+    var prodNotPromotion = ['00028812','00345900']; //truyền mã sản phẩm muốn check
         for (let i = 0; i < dataExcel['CTKM tháng 10'].length; i++){
         if (prodNotPromotion.indexOf(dataExcel['CTKM tháng 10'][i]['Mã SP'])>= 0){
-            it('check sản phẩm ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {
+            it('check sản phẩm có PMH ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {
                 await HomePage.open('https://nhathuoclongchau.com/');
                 await HomePage.searchMedicine2(dataExcel['CTKM tháng 10'][i]['Mã SP']);
                 await HomePage.pauseBrowser(2000);
-                await ProductInfoPage.verifyDetailFinalPrice((dataExcel['CTKM tháng 10'][i]['Giá bán sau giảm']));//check giá bán sau giảm
                 await ProductInfoPage.verifyPriceDefault(dataExcel['CTKM tháng 10'][i]['Giá bán']); //check giá bán gốc
+                await ProductInfoPage.verifyCTKM(dataExcel['CTKM tháng 10'][i]['CTKM']);
             });
         }
     }    

@@ -15,6 +15,8 @@
     },
     "scripts": {
         "detail": "npx wdio wdio.conf.js --spec ./test/specs/checkDetail.js",
-        "promotion" : "npx wdio wdio.conf.js --spec ./test/specs/checkPricePromotion.js"
+        "promotion" : "npx wdio wdio.conf.js --spec ./test/specs/checkPricePromotion.js",
+        "pmh" : "npx wdio wdio.conf.js --spec ./test/specs/checkPMH.js"
+
     }
 }
