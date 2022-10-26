@@ -5,7 +5,7 @@ const dataExcel = require('../../data/CTKM-tháng-10.json');
 const fsPromises = require('fs/promises');
 const path = require('path');
 var fs = require('fs');
-var dir = './screenshot'
+var dir = './allure-results'
 
 describe('Web Ecom', () => {
     beforeAll(async () => {

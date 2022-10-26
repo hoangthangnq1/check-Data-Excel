@@ -5,7 +5,7 @@ const dataExcel = require('../../data/CTKM-tháng-10.json');
 const fsPromises = require('fs/promises');
 const path = require('path');
 var fs = require('fs');
-var dir = './screenshot'
+var dir = './allure-results'
 
 describe('Web Ecom', () => {
     beforeAll(async () => {
@@ -22,10 +22,15 @@ describe('Web Ecom', () => {
         }
         it('check sản phẩm ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {
             await HomePage.open('https://nhathuoclongchau.com/');
-            await HomePage.searchMedicine2(dataExcel['CTKM tháng 10'][i]['Mã SP']);
+            await HomePage.searchMedicine(
+                dataExcel['CTKM tháng 10'][i]['Mã SP'], 
+                dataExcel['CTKM tháng 10'][i]['Giá bán sau giảm'],
+                dataExcel['CTKM tháng 10'][i]['Giá bán']
+                );
             await HomePage.pauseBrowser(2000);
             await ProductInfoPage.verifyDetailFinalPrice((dataExcel['CTKM tháng 10'][i]['Giá bán sau giảm']));//check giá bán sau giảm
             await ProductInfoPage.verifyPriceDefault(dataExcel['CTKM tháng 10'][i]['Giá bán']); //check giá bán gốc
+            await CartPage.verifyPriceInCartPage(dataExcel['CTKM tháng 10'][i]['Giá bán sau giảm'], dataExcel['CTKM tháng 10'][i]['Giá bán']);//check giá màn cart
         });
     }
 });

@@ -15,7 +15,12 @@ class ProductInfoPage extends Page {
     get promotionName() { //giá sau khuyến mãi
         return $(`//li[@class ='promotion-item']//input`);
     }
-
+    get btnChonMua() { //button Chọn mua
+        return $(`//span[text()='CHỌN MUA ']`);
+    }
+    get iconCart() { //giỏ hàng
+        return $(`//p[contains(text(),'Giỏ hàng')]`);
+    }
     async verifyPriceDefault(priceExcel) { //check giá gốc
         console.log("price: " + await this.priceDefault.getValue());
         await this.priceDefault.waitForExist({ timeout: 20000 });
@@ -37,6 +42,13 @@ class ProductInfoPage extends Page {
         console.log("Promotion: " + typeof promotion);
         let isSame = promotion.includes(ctkmExcel);
         expect(isSame).toEqual((true), { message: 'web: ' + promotion});
+    }
+
+    async addToCart(){
+        await this.btnChonMua.scrollIntoView();
+        await this.btnChonMua.click();
+        await browser.pause(4000);
+        await super.click(await this.iconCart);
     }
 
     async roundingNumber(number) {
