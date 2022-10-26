@@ -30,6 +30,7 @@ describe('Web Ecom', () => {
             await HomePage.pauseBrowser(2000);
             await ProductInfoPage.verifyDetailFinalPrice((dataExcel['CTKM tháng 10'][i]['Giá bán sau giảm']));//check giá bán sau giảm
             await ProductInfoPage.verifyPriceDefault(dataExcel['CTKM tháng 10'][i]['Giá bán']); //check giá bán gốc
+            await ProductInfoPage.addToCart();
             await CartPage.verifyPriceInCartPage(dataExcel['CTKM tháng 10'][i]['Giá bán sau giảm'], dataExcel['CTKM tháng 10'][i]['Giá bán']);//check giá màn cart
         });
     }
