@@ -31,7 +31,7 @@
             "Thời gian": "01102022 – 31102024",
             "Mã SP": "00033675",
             "Tên sản phẩm": "Mặt nạ Megrhythm xông hơi mắt không hương (5 Miếng)",
-            "Giá bán": 130000,
+            "Giá bán": 140000,
             "Đơn vị bán": "Hộp",
             "CTKM": "Giảm 20%",
             "Giá bán sau giảm": 112000
@@ -42,10 +42,11 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 – 31102022",
             "Mã SP": "00028812",
-            "Tên sản phẩm": "Nước Đông Trùng Hạ Thảo Hector Sâm tăng đề kháng, bồi bổ cơ thể (50ml x 10 chai)",
+            "Tên sản phẩm": "Nước Đông Trùng Hạ Thảo Hector Sâm tăng đề kháng bồi bổ cơ thể (50ml x 10 chai)",
             "Giá bán": 450000,
             "Đơn vị bán": "Hộp",
-            "CTKM": "Tặng PMH trị giá 25000đ"
+            "CTKM": "Tặng PMH trị giá 25000đ",
+            "Giá bán sau giảm": 450000
         },
         {
             "STT": "5",
@@ -53,10 +54,11 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 – 31102023",
             "Mã SP": "00345900",
-            "Tên sản phẩm": "Nước Đông Trùng Hạ Thảo Hector Collagen thơm ngon, đẹp da (5ml x 10 chai)",
+            "Tên sản phẩm": "Nước Đông Trùng Hạ Thảo Hector Collagen thơm ngon đẹp da (5ml x 10 chai)",
             "Giá bán": 580000,
             "Đơn vị bán": "Hộp",
-            "CTKM": "Tặng PMH trị giá 30000đ"
+            "CTKM": "Tặng PMH trị giá 30000đ",
+            "Giá bán sau giảm": 580000
         },
         {
             "STT": "6",
@@ -74,7 +76,7 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 – 31102023",
             "Mã SP": "00020776",
-            "Tên sản phẩm": "Nước súc miệng Dr Muối hương vỏ chanh giảm hôi miệng, loại bỏ vi khuẩn (500ml)",
+            "Tên sản phẩm": "Nước súc miệng Dr Muối hương vỏ chanh giảm hôi miệng loại bỏ vi khuẩn (500ml)",
             "Giá bán": 19000,
             "Giá bán sau giảm": 16000
         },
@@ -144,11 +146,11 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 - 31102022",
             "Mã SP": "00010052",
-            "Tên sản phẩm": "URGOSTERILE 53MM X 70MM, 50'S (NEW)-BĂNG GẠC",
-            "Giá bán": 215001,
-            "Đơn vị bán": "Hộp",
+            "Tên sản phẩm": "URGOSTERILE 53MM X 70MM 50'S (NEW)-BĂNG GẠC",
+            "Giá bán": 4300,
+            "Đơn vị bán": "Cái",
             "CTKM": "Giảm giá 10%",
-            "Giá bán sau giảm": 193500
+            "Giá bán sau giảm": 3870
         },
         {
             "STT": "14",
@@ -192,7 +194,7 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 - 31102022",
             "Mã SP": "00021234",
-            "Tên sản phẩm": "NEOCURMA GEL NGHỆ NANO 20G - ĐIỀU TRỊ MỤN, MỜ THÂM SẸO",
+            "Tên sản phẩm": "NEOCURMA GEL NGHỆ NANO 20G - ĐIỀU TRỊ MỤN MỜ THÂM SẸO",
             "Giá bán": 68000,
             "Đơn vị bán": "Tuýp",
             "CTKM": "Giảm giá 10%",
@@ -216,7 +218,7 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 - 31102022",
             "Mã SP": "00029864",
-            "Tên sản phẩm": "ACNES BODY BAR LA BEAUTY 75G - XÀ PHÒNG TẮM HỖ TRỢ TRỊ MỤN, SÁNG DA - SAFFRON VÀ CAO TRẦU KHÔNG",
+            "Tên sản phẩm": "ACNES BODY BAR LA BEAUTY 75G - XÀ PHÒNG TẮM HỖ TRỢ TRỊ MỤN SÁNG DA - SAFFRON VÀ CAO TRẦU KHÔNG",
             "Giá bán": 69000,
             "Đơn vị bán": "Hộp",
             "CTKM": "Giảm giá 10%",
@@ -240,11 +242,11 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 - 31102022",
             "Mã SP": "00032782",
-            "Tên sản phẩm": "NEO AQUA 50G - KEM DƯỠNG DA, CHỐNG KHÔ, NỨT NẺ DA",
+            "Tên sản phẩm": "NEO AQUA 50G - KEM DƯỠNG DA CHỐNG KHÔ NỨT NẺ DA",
             "Giá bán": 130000,
             "Đơn vị bán": "Tuýp",
             "CTKM": "Giảm giá 10%",
-            "Giá bán sau giảm": "117000đ"
+            "Giá bán sau giảm": 117000
         },
         {
             "STT": "22",
@@ -252,11 +254,11 @@
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 - 31102022",
             "Mã SP": "00501176",
-            "Tên sản phẩm": "NEO HEBE EFFECTIVE WHITENING CREAM LABEAUTE 35G - KEM GIẢM THÂM, LÀM SÁNG DA VÙNG NÁCH, VÙNG KÍN",
+            "Tên sản phẩm": "NEO HEBE EFFECTIVE WHITENING CREAM LABEAUTE 35G - KEM GIẢM THÂM LÀM SÁNG DA VÙNG NÁCH VÙNG KÍN",
             "Giá bán": 129000,
             "Đơn vị bán": "Tuýp",
             "CTKM": "Giảm giá 10%",
-            "Giá bán sau giảm": "116000đ"
+            "Giá bán sau giảm": 116000
         },
         {
             "STT": "23",
@@ -268,7 +270,7 @@
             "Giá bán": 115000,
             "Đơn vị bán": "Chai",
             "CTKM": "Mua 1 tặng 1 chai 00028200 - GEL RỬA TAY KHÔ NATURAL HAND SANITIZER 120ML (Kho hàng thường)",
-            "Giá bán sau giảm": "115000đ"
+            "Giá bán sau giảm": 115000
         },
         {
             "STT": "24",
@@ -307,7 +309,7 @@
             "Giá bán sau giảm": 249000
         },
         {
-            "STT": "28",
+            "STT": "27",
             "Tên CTKM": "TRIỂN KHAI CTKM THÁNG 10/2022 NH DMP - TTBYT",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 - 31102022",
@@ -319,1696 +321,7 @@
             "Giá bán sau giảm": 376000
         },
         {
-            "STT": "29",
-            "Tên CTKM": "THÔNG BÁO TRIỂN CTKM DUNG DỊCH XỊT MŨI DR MUỐI 100ML",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "01102022 - 31122022",
-            "Mã SP": "00031677",
-            "Tên sản phẩm": "Dung dịch xịt mũi Drmuối (100ml)",
-            "Giá bán": "30000đ",
-            "Đơn vị bán": "Chai",
-            "CTKM": "GIẢM GIÁ: 4,000Đ",
-            "Giá bán sau giảm": 24000
-        },
-        {
-            "STT": "30",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00021490",
-            "Tên sản phẩm": "LIVESPO PREG-MOM 20 ỐNG X 5ML - BÀO TỬ LỢI KHUẨN CHO MẸ VÀ BÉ",
-            "Giá bán": 330000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 33000,
-            "Giá bán sau giảm": 297000
-        },
-        {
-            "STT": "31",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00017955",
-            "Tên sản phẩm": "DRG BIFIDUS BIFIDO 30 GÓI X 2G",
-            "Giá bán": 600000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 500000
-        },
-        {
-            "STT": "32",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00018887",
-            "Tên sản phẩm": "BP GOLDEN PINE BIOAVENUE 100V",
-            "Giá bán": 1100000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 110000,
-            "Giá bán sau giảm": 990000
-        },
-        {
-            "STT": "33",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033505",
-            "Tên sản phẩm": "CỐM ĂN NGON, TĂNG ĐỀ KHÁNG TRẺ EM TT KIDS TRAPHACO 20 GÓI X 3G",
-            "Giá bán": 98000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 9800,
-            "Giá bán sau giảm": 88200
-        },
-        {
-            "STT": "34",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033177",
-            "Tên sản phẩm": "CỐM LỢI SỮA TTGALAC 20 GÓI X 3G",
-            "Giá bán": 124990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 12499,
-            "Giá bán sau giảm": 112491
-        },
-        {
-            "STT": "35",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00022773",
-            "Tên sản phẩm": "XỊT HỌNG SEDAGOL PRO-BIO PHARMA 30ML",
-            "Giá bán": 165000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 16500,
-            "Giá bán sau giảm": 148500
-        },
-        {
-            "STT": "36",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029255",
-            "Tên sản phẩm": "ALLTIMES CARE PLATINUM CORDYCEPS 60V",
-            "Giá bán": 835000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 735000
-        },
-        {
-            "STT": "37",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029361",
-            "Tên sản phẩm": "MEDSULIN GOLD JPANWELL 60V",
-            "Giá bán": 959990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 859990
-        },
-        {
-            "STT": "38",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031834",
-            "Tên sản phẩm": "ĐẠI TRÀNG HẢI THƯỢNG VƯƠNG 2X10",
-            "Giá bán": 149000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 14900,
-            "Giá bán sau giảm": 134100
-        },
-        {
-            "STT": "39",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031902",
-            "Tên sản phẩm": "DẠ DÀY HẢI THƯỢNG VƯƠNG 3X10",
-            "Giá bán": 298990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 29899,
-            "Giá bán sau giảm": 269091
-        },
-        {
-            "STT": "40",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032884",
-            "Tên sản phẩm": "VIÊN UỐNG PHÒNG NGỪA UNG THƯ OKINAWA FUCOIDAN +++ JPANWELL 3X10",
-            "Giá bán": 979990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 879990
-        },
-        {
-            "STT": "41",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032890",
-            "Tên sản phẩm": "XƯƠNG KHỚP HẢI THƯỢNG VƯƠNG 30V",
-            "Giá bán": 149000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 14900,
-            "Giá bán sau giảm": 134100
-        },
-        {
-            "STT": "42",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032920",
-            "Tên sản phẩm": "VIÊN UỐNG THẢI ĐỘC GAN DR LIVER JPANWELL 60V",
-            "Giá bán": 949990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 849990
-        },
-        {
-            "STT": "43",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032942",
-            "Tên sản phẩm": "B COMPLEX VITAMIN ROYAL CARE 60V",
-            "Giá bán": 139000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 13900,
-            "Giá bán sau giảm": 125100
-        },
-        {
-            "STT": "44",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500791",
-            "Tên sản phẩm": "VIÊN UỐNG TĂNG ĐỀ KHÁNG MULTIVITAMIN +ZN +D3 ROYAL CARE 60V",
-            "Giá bán": 160000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 16000,
-            "Giá bán sau giảm": 144000
-        },
-        {
-            "STT": "45",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00017023",
-            "Tên sản phẩm": "NANO CURCUMIN PLUS TAM THẤT XẠ ĐEN HVQY 3X10",
-            "Giá bán": 305000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 30500,
-            "Giá bán sau giảm": 274000
-        },
-        {
-            "STT": "46",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032348",
-            "Tên sản phẩm": "TRÙNG THẢO GOLD THÀNH CÔNG 30V",
-            "Giá bán": 168990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 16899,
-            "Giá bán sau giảm": 152091
-        },
-        {
-            "STT": "47",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00501425",
-            "Tên sản phẩm": "LIVESPO CLAUSY 25 ỐNG X 5ML - BÀO TỬ LỢI KHUẨN KHÁNG ĐA KHÁNG SINH",
-            "Giá bán": 150000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 15000,
-            "Giá bán sau giảm": 135000
-        },
-        {
-            "STT": "48",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029572",
-            "Tên sản phẩm": "TĂM BÔNG NIVA HŨ XOAY 400 QUE GIẤY - BHP2",
-            "Giá bán": 60500,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6050,
-            "Giá bán sau giảm": 54450
-        },
-        {
-            "STT": "49",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029571",
-            "Tên sản phẩm": "TĂM BÔNG NIVA HŨ XOAY 200 QUE GIẤY - BHP1",
-            "Giá bán": 36500,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 3650,
-            "Giá bán sau giảm": 32850
-        },
-        {
-            "STT": "50",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032752",
-            "Tên sản phẩm": "BỘT ATISÔ NGUYÊN CHẤT DATINO 15 GÓI X 3G",
-            "Giá bán": 110000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 11000,
-            "Giá bán sau giảm": 99000
-        },
-        {
-            "STT": "51",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031150",
-            "Tên sản phẩm": "BỘT CẦN TÂY NGUYÊN CHẤT DATINO 3GX15 GÓI",
-            "Giá bán": 140000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 14000,
-            "Giá bán sau giảm": 126000
-        },
-        {
-            "STT": "52",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031151",
-            "Tên sản phẩm": "BỘT CẦN TÂY VỊ TÁO DATINO 3GX15 GÓI",
-            "Giá bán": 154990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 15499,
-            "Giá bán sau giảm": 139491
-        },
-        {
-            "STT": "53",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033695",
-            "Tên sản phẩm": "BỘT NƯỚC MÁT DATINO HERBAL DRINK POWDER 10 GÓI X 8G",
-            "Giá bán": 42000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 4200,
-            "Giá bán sau giảm": 37800
-        },
-        {
-            "STT": "54",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031148",
-            "Tên sản phẩm": "BỘT RAU MÁ DATINO 3GX15 GÓI",
-            "Giá bán": 85000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 8500,
-            "Giá bán sau giảm": 76500
-        },
-        {
-            "STT": "55",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031149",
-            "Tên sản phẩm": "BỘT RAU MÁ ĐẬU XANH ĐƯỜNG PHÈN DATINO 15GX10 GÓI",
-            "Giá bán": 85000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 8500,
-            "Giá bán sau giảm": 76500
-        },
-        {
-            "STT": "56",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500065",
-            "Tên sản phẩm": "HOTEXCOL - VIÊN NGẬM GIẢM HO, THANH HỌNG, GIẢM TĂNG TIẾT ĐỜM 10X4",
-            "Giá bán": 108000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 10800,
-            "Giá bán sau giảm": 97200
-        },
-        {
-            "STT": "57",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033623",
-            "Tên sản phẩm": "MẬT ONG HOA RỪNG HONEYLAND 500G",
-            "Giá bán": 158990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 15899,
-            "Giá bán sau giảm": 143091
-        },
-        {
-            "STT": "58",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033617",
-            "Tên sản phẩm": "MẬT ONG RỪNG ĐIỆN BIÊN HONIMORE 720G",
-            "Giá bán": 194000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 19400,
-            "Giá bán sau giảm": 174600
-        },
-        {
-            "STT": "59",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00018456",
-            "Tên sản phẩm": "NGẬM HO BÁCH BỘ MOM AND BABY TẤT THÀNH 26X4",
-            "Giá bán": 245990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 24599,
-            "Giá bán sau giảm": 221391
-        },
-        {
-            "STT": "60",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00018464",
-            "Tên sản phẩm": "NGẬM HO BÁCH BỘ MOM AND BABY TẤT THÀNH 5X4",
-            "Giá bán": 52000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 5200,
-            "Giá bán sau giảm": 46800
-        },
-        {
-            "STT": "61",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500172",
-            "Tên sản phẩm": "NƯỚC BÙ ĐIỆN GIẢI TOM VÀ JERRY VỊ CAM 250ML",
-            "Giá bán": 10000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 1000,
-            "Giá bán sau giảm": 9000
-        },
-        {
-            "STT": "62",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500173",
-            "Tên sản phẩm": "NƯỚC BÙ ĐIỆN GIẢI TOM VÀ JERRY VỊ CHANH 250ML",
-            "Giá bán": 10000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 1000,
-            "Giá bán sau giảm": 9000
-        },
-        {
-            "STT": "63",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500174",
-            "Tên sản phẩm": "NƯỚC BÙ ĐIỆN GIẢI TOM VÀ JERRY VỊ DÂU 250ML",
-            "Giá bán": 10000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 1000,
-            "Giá bán sau giảm": 9000
-        },
-        {
-            "STT": "64",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033621",
-            "Tên sản phẩm": "TINH NGHỆ VÀNG HONIMORE 130G",
-            "Giá bán": 134990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 13499,
-            "Giá bán sau giảm": 121491
-        },
-        {
-            "STT": "65",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00008392",
-            "Tên sản phẩm": "TRÀ MÁT GAN LỢI TIỂU KINGPHAR 20 TÚI LỌC X 2G",
-            "Giá bán": 37990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 3799,
-            "Giá bán sau giảm": 34191
-        },
-        {
-            "STT": "66",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033624",
-            "Tên sản phẩm": "VIÊN TINH NGHỆ MẬT ONG SỮA CHÚA HONEYLAND 120G",
-            "Giá bán": 196000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 19600,
-            "Giá bán sau giảm": 176400
-        },
-        {
-            "STT": "67",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500698",
-            "Tên sản phẩm": "YẾN SÀO CHO TRẺ EM GREENBABI HƯƠNG VANI 4 HŨ X 72G",
-            "Giá bán": 164000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 16400,
-            "Giá bán sau giảm": 147600
-        },
-        {
-            "STT": "68",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500697",
-            "Tên sản phẩm": "YẾN SÀO CHƯNG ĐƯỜNG PHÈN GREENBIRD 4 HŨ X 72G",
-            "Giá bán": 150000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 15000,
-            "Giá bán sau giảm": 135000
-        },
-        {
-            "STT": "69",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500696",
-            "Tên sản phẩm": "YẾN SÀO CHƯNG ĐƯỜNG PHÈN GREENBIRD 72G",
-            "Giá bán": 36990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 3699,
-            "Giá bán sau giảm": 33291
-        },
-        {
-            "STT": "70",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032930",
-            "Tên sản phẩm": "YẾN SÀO VÀ ĐÔNG TRÙNG HẠ THẢO GREENBIRD 6 CHAI X 185ML",
-            "Giá bán": 174000,
-            "Đơn vị bán": "Lốc",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 17400,
-            "Giá bán sau giảm": 156600
-        },
-        {
-            "STT": "71",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032931",
-            "Tên sản phẩm": "YẾN SÀO VÀ HẠT CHIA GREENBIRD 6 CHAI X 185ML",
-            "Giá bán": 162000,
-            "Đơn vị bán": "Lốc",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 16200,
-            "Giá bán sau giảm": 145800
-        },
-        {
-            "STT": "72",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00002643",
-            "Tên sản phẩm": "ĐƯỜNG ĂN KIÊNG EQUAL CLASSIC ZERO CALORIE SWEETENER 100G 100 GÓI",
-            "Giá bán": 129000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 12900,
-            "Giá bán sau giảm": 116100
-        },
-        {
-            "STT": "73",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500273",
-            "Tên sản phẩm": "ĐƯỜNG ĂN KIÊNG EQUAL STEVIA NO CALORIE SWEETENER 80G 40 GÓI",
-            "Giá bán": 79500,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 7950,
-            "Giá bán sau giảm": 71550
-        },
-        {
-            "STT": "74",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00345454",
-            "Tên sản phẩm": "HEALTHY NEW HẢI LINH 120ML",
-            "Giá bán": 78990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 7899,
-            "Giá bán sau giảm": 71091
-        },
-        {
-            "STT": "75",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00018955",
-            "Tên sản phẩm": "ĂN NGON NGỦ NGON TẤT THÀNH NEW 30V",
-            "Giá bán": 96000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 9600,
-            "Giá bán sau giảm": 86400
-        },
-        {
-            "STT": "76",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032699",
-            "Tên sản phẩm": "SINUS NOSE - HỖ TRỢ ĐƯỜNG HÔ HẤP VITAMINS FOR LIFE 30V",
-            "Giá bán": 289990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 28999,
-            "Giá bán sau giảm": 260991
-        },
-        {
-            "STT": "77",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031920",
-            "Tên sản phẩm": "TOP GROW JPANWELL 10 CHAI X 30ML - SIRO VITAMIN TĂNG TRƯỞNG CHO TRẺ EM",
-            "Giá bán": 849990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 749990
-        },
-        {
-            "STT": "78",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032922",
-            "Tên sản phẩm": "VIÊN UỐNG HỖ TRỢ DẠ DÀY DR STO JPANWELL 60V",
-            "Giá bán": 949990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 849990
-        },
-        {
-            "STT": "79",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500955",
-            "Tên sản phẩm": "TRÀ NHÂN SÂM KO GINSENG ROYAL TEA 10 HỘP X 10 GÓI",
-            "Giá bán": 350000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 250000
-        },
-        {
-            "STT": "80",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032125",
-            "Tên sản phẩm": "TINH DẦU KHỬ KHUẨN - CHỐNG VIRUS - ĐUỔI MUỖI VÀ CÔN TRÙNG THẢO NGUYÊN 500ML",
-            "Giá bán": 168990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 16899,
-            "Giá bán sau giảm": 152091
-        },
-        {
-            "STT": "81",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033612",
-            "Tên sản phẩm": "TINH DẦU KHỬ KHUẨN - CHỐNG VIRUS - ĐUỔI MUỖI VÀ CÔN TRÙNG HƯƠNG SẢ CHANH THẢO NGUYÊN 30ML",
-            "Giá bán": 68990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6899,
-            "Giá bán sau giảm": 62091
-        },
-        {
-            "STT": "82",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029578",
-            "Tên sản phẩm": "KHĂN COTTON ĐA NĂNG NIVA BABY 100 TỜ",
-            "Giá bán": 24990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 2499,
-            "Giá bán sau giảm": 22491
-        },
-        {
-            "STT": "83",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031889",
-            "Tên sản phẩm": "LÁ XÔNG THẢO MỘC MỆ ĐOAN 2 GÓI",
-            "Giá bán": 95000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 9500,
-            "Giá bán sau giảm": 85500
-        },
-        {
-            "STT": "84",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00004275",
-            "Tên sản phẩm": "LACTACYD BB SANOFI 250ML - SỮA TẮM GỘI GIẢM RÔM SẢY, HĂM KẼ",
-            "Giá bán": 85000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 8500,
-            "Giá bán sau giảm": 76500
-        },
-        {
-            "STT": "85",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00004281",
-            "Tên sản phẩm": "LACTACYD BABY EXTRA MILKY SANOFI 250ML - SỮA TẮM GỘI BẢO VỆ, NUÔI DƯỠNG DA TÓC BÉ",
-            "Giá bán": 89990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 8999,
-            "Giá bán sau giảm": 80991
-        },
-        {
-            "STT": "86",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00004283",
-            "Tên sản phẩm": "LACTACYD SOFT AND SILKY SANOFI 250ML - DD VỆ SINH PHỤ NỮ GIÚP DƯỠNG ẨM",
-            "Giá bán": 75000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 7500,
-            "Giá bán sau giảm": 67500
-        },
-        {
-            "STT": "87",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00015054",
-            "Tên sản phẩm": "LACTACYD ODOR FRESH SANOFI 150ML - DD VỆ SINH PHỤ NỮ NGĂN MÙI SUỐT 24H",
-            "Giá bán": 44990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 4499,
-            "Giá bán sau giảm": 40491
-        },
-        {
-            "STT": "88",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00015125",
-            "Tên sản phẩm": "LACTACYD SOFT AND SILKY SANOFI 150ML - DD VỆ SINH PHỤ NỮ GIÚP DƯỠNG ẨM",
-            "Giá bán": 60000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6000,
-            "Giá bán sau giảm": 54000
-        },
-        {
-            "STT": "89",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00017796",
-            "Tên sản phẩm": "LACTACYD MILKY BABY SANOFI 500ML - SỮA TẮM GỘI BẢO VỆ, NUÔI DƯỠNG DA TÓC BÉ",
-            "Giá bán": 140000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 14000,
-            "Giá bán sau giảm": 126000
-        },
-        {
-            "STT": "90",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500107",
-            "Tên sản phẩm": "LACTACYD ODOR FRESH SANOFI 250ML - DUNG DỊCH VỆ SINH PHỤ NỮ NGĂN MÙI SUỐT 24H",
-            "Giá bán": 68990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6899,
-            "Giá bán sau giảm": 62091
-        },
-        {
-            "STT": "91",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500391",
-            "Tên sản phẩm": "LACTACYD PRO SENSITIVE 150ML - DUNG DỊCH VỆ SINH PHỤ NỮ KHÁNG KHUẨN VÀ GIẢM NGỨA",
-            "Giá bán": 55000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 5500,
-            "Giá bán sau giảm": 49500
-        },
-        {
-            "STT": "92",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500392",
-            "Tên sản phẩm": "LACTACYD PRO SENSITIVE 250ML - DUNG DỊCH VỆ SINH PHỤ NỮ KHÁNG KHUẨN VÀ GIẢM NGỨA",
-            "Giá bán": 79990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 7999,
-            "Giá bán sau giảm": 71991
-        },
-        {
-            "STT": "93",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500393",
-            "Tên sản phẩm": "LACTACYD EXTRA NOURISH 150ML - DUNG DỊCH VỆ SINH PHỤ NỮ GIÚP CĂNG MỊN",
-            "Giá bán": 61000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6100,
-            "Giá bán sau giảm": 54900
-        },
-        {
-            "STT": "94",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00015040",
-            "Tên sản phẩm": "DẦU DƯỠNG TRỊ RẠN DA - BIO OIL SKINCARE OIL MEGA 60ML",
-            "Giá bán": 188990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 18899,
-            "Giá bán sau giảm": 170091
-        },
-        {
-            "STT": "95",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00017605",
-            "Tên sản phẩm": "DẦU DƯỠNG TRỊ RẠN DA - BIO OIL SKINCARE OIL MEGA 125ML",
-            "Giá bán": 319000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 31900,
-            "Giá bán sau giảm": 287100
-        },
-        {
-            "STT": "96",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029256",
-            "Tên sản phẩm": "TINH CHẤT DƯỠNG TRẮNG DA - NNO VITE APLICAPZ WHITENING SERUM MEGA 3X10",
-            "Giá bán": 349000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 34900,
-            "Giá bán sau giảm": 314100
-        },
-        {
-            "STT": "97",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029257",
-            "Tên sản phẩm": "DẦU DƯỠNG DA BAN ĐÊM - NNO NOURISHING NIGHT OIL MEGA 3X10",
-            "Giá bán": 139000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 13900,
-            "Giá bán sau giảm": 125100
-        },
-        {
-            "STT": "98",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032802",
-            "Tên sản phẩm": "DEONATULLE SOFT STONE DOUBLE COLOR CONTROL 20G - LĂN KHỬ MÙI ĐÁ KHOÁNG DẠNG SÁP GIÚP SÁNG DA",
-            "Giá bán": 309990,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 30999,
-            "Giá bán sau giảm": 278991
-        },
-        {
-            "STT": "99",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032801",
-            "Tên sản phẩm": "DEONATULLE SOFT STONE DOUBLE DEODORANT 20G - LĂN KHỬ MÙI ĐÁ KHOÁNG DẠNG SÁP CHO MỌI LOẠI DA",
-            "Giá bán": 297990,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 29799,
-            "Giá bán sau giảm": 268191
-        },
-        {
-            "STT": "100",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032803",
-            "Tên sản phẩm": "DEONATULLE SOFT STONE DOUBLE NON-MENTHOL FOR MEN 20G - LĂN KHỬ MÙI ĐÁ KHOÁNG DẠNG SÁP CHO NAM",
-            "Giá bán": 297990,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 29799,
-            "Giá bán sau giảm": 268191
-        },
-        {
-            "STT": "101",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00006480",
-            "Tên sản phẩm": "SAFORELLE GENTLE CLEANSING CARE 250ML - DUNG DỊCH VỆ SINH PHỤ NỮ",
-            "Giá bán": 190000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 19000,
-            "Giá bán sau giảm": 171000
-        },
-        {
-            "STT": "102",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00016372",
-            "Tên sản phẩm": "DERMACOS ANTI-ACNE ANTI-IMPERFEXTION SPOT GEL 15ML - GEL CHẤM MỤN CHỨA BÙN HOẠT TÍNH",
-            "Giá bán": 231990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 23199,
-            "Giá bán sau giảm": 208791
-        },
-        {
-            "STT": "103",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00016266",
-            "Tên sản phẩm": "DERMACOS ANTI-ACNE DEEP CLEANSING GEL 150ML - GEL RỬA MẶT SẠCH SÂU,NGỪA MỤN",
-            "Giá bán": 338000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 33800,
-            "Giá bán sau giảm": 304200
-        },
-        {
-            "STT": "104",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500738",
-            "Tên sản phẩm": "BÔNG Y TẾ QUICK NURSE 100G",
-            "Giá bán": 21000,
-            "Đơn vị bán": "Gói",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 2100,
-            "Giá bán sau giảm": 18900
-        },
-        {
-            "STT": "105",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500739",
-            "Tên sản phẩm": "BÔNG Y TẾ QUICK NURSE 1KG",
-            "Giá bán": 189990,
-            "Đơn vị bán": "Gói",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 18999,
-            "Giá bán sau giảm": 170991
-        },
-        {
-            "STT": "106",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500742",
-            "Tên sản phẩm": "BÔNG Y TẾ QUICK NURSE 25G",
-            "Giá bán": 6000,
-            "Đơn vị bán": "Gói",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 600,
-            "Giá bán sau giảm": 5400
-        },
-        {
-            "STT": "107",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029913",
-            "Tên sản phẩm": "CỐC NGUYỆT SAN SIÊU MỀM BEU CUP 45MMX65MM",
-            "Giá bán": 498990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 100k",
-            "Số tiền giảm": 100000,
-            "Giá bán sau giảm": 398990
-        },
-        {
-            "STT": "108",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032456",
-            "Tên sản phẩm": "DUNG DỊCH SÁT KHUẨN HÃN HUYẾT LINH DẠNG XỊT 15ML",
-            "Giá bán": 89990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 8999,
-            "Giá bán sau giảm": 80991
-        },
-        {
-            "STT": "109",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00501451",
-            "Tên sản phẩm": "EMORAN ITALY 6V - VIÊN ĐẶT TRĨ, VIÊM TRỰC TRÀNG",
-            "Giá bán": 179990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 17999,
-            "Giá bán sau giảm": 161991
-        },
-        {
-            "STT": "110",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033294",
-            "Tên sản phẩm": "GẠC RĂNG MIỆNG DR CARE QUANG XANH 30 GÓI",
-            "Giá bán": 114990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 11499,
-            "Giá bán sau giảm": 103491
-        },
-        {
-            "STT": "111",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031339",
-            "Tên sản phẩm": "GẠC TẨM CỒN QUICK - NURSE 6X3CM HỘP 100 MIẾNG",
-            "Giá bán": 22990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 2299,
-            "Giá bán sau giảm": 20691
-        },
-        {
-            "STT": "112",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031338",
-            "Tên sản phẩm": "GẠC TẨM CỒN QUICK - NURSE 6X6CM HỘP 100 MIẾNG",
-            "Giá bán": 26990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 2699,
-            "Giá bán sau giảm": 24291
-        },
-        {
-            "STT": "113",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00501416",
-            "Tên sản phẩm": "KHĂN HẠ SỐT DRPAPIE 0+ STARMED - HỘP 5 TÚI X 5 KHĂN",
-            "Giá bán": 144990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 14499,
-            "Giá bán sau giảm": 130491
-        },
-        {
-            "STT": "114",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031947",
-            "Tên sản phẩm": "KHĂN HẠ SỐT DRPAPIE 3M0+ STARMED - HỘP 5 TÚI X 5 KHĂN",
-            "Giá bán": 144990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 14499,
-            "Giá bán sau giảm": 130491
-        },
-        {
-            "STT": "115",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029787",
-            "Tên sản phẩm": "KHẨU TRANG HAMITA N95",
-            "Giá bán": 65000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6500,
-            "Giá bán sau giảm": "58500đ"
-        },
-        {
-            "STT": "116",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029785",
-            "Tên sản phẩm": "KHẨU TRANG HAMITA TRẺ EM",
-            "Giá bán": 58990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 5899,
-            "Giá bán sau giảm": 53091
-        },
-        {
-            "STT": "117",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029008",
-            "Tên sản phẩm": "KHẨU TRANG THAN HOẠT TÍNH HAMITA H80+ 4 LỚP",
-            "Giá bán": 78990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 7899,
-            "Giá bán sau giảm": 71091
-        },
-        {
-            "STT": "118",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033796",
-            "Tên sản phẩm": "KHẨU TRANG Y TẾ 4 LỚP KJ MASK MÀU ĐEN",
-            "Giá bán": 39000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 3900,
-            "Giá bán sau giảm": 35100
-        },
-        {
-            "STT": "119",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033377",
-            "Tên sản phẩm": "KHẨU TRANG Y TẾ CAO CẤP VĨNH TIẾN 4D 3HMASK MÀU ĐEN",
-            "Giá bán": 68990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6899,
-            "Giá bán sau giảm": 62091
-        },
-        {
-            "STT": "120",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00031581",
-            "Tên sản phẩm": "KHẨU TRANG Y TẾ CAO CẤP VĨNH TIẾN KN95 3HMASK",
-            "Giá bán": 68990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6899,
-            "Giá bán sau giảm": 62091
-        },
-        {
-            "STT": "121",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033281",
-            "Tên sản phẩm": "KHẨU TRANG Y TẾ CAO CẤP VĨNH TIẾN KN95 3HMASK 12C",
-            "Giá bán": 68990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6899,
-            "Giá bán sau giảm": 62091
-        },
-        {
-            "STT": "122",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033694",
-            "Tên sản phẩm": "KHẨU TRANG Y TẾ HAMITA ADVANCED 4D MASK MÀU ĐEN - GÓI 5 CÁI",
-            "Giá bán": 35000,
-            "Đơn vị bán": "Gói",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 3500,
-            "Giá bán sau giảm": 31500
-        },
-        {
-            "STT": "123",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00030973",
-            "Tên sản phẩm": "KHẨU TRANG Y TẾ NGƯỜI LỚN HAMITA ADVANCED 4D MASK MÀU TRẮNG - GÓI 5 CÁI",
-            "Giá bán": 34990,
-            "Đơn vị bán": "Gói",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 3499,
-            "Giá bán sau giảm": 31491
-        },
-        {
-            "STT": "124",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032539",
-            "Tên sản phẩm": "KHẨU TRANG Y TẾ TRẺ EM HAMITA ADVANCED 4D MASK - GÓI 5 CÁI",
-            "Giá bán": 35000,
-            "Đơn vị bán": "Gói",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 3500,
-            "Giá bán sau giảm": 31500
-        },
-        {
-            "STT": "125",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032538",
-            "Tên sản phẩm": "NƯỚC SÁT KHUẨN STERIPLANT DẠNG XỊT 200ML",
-            "Giá bán": 188990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 18899,
-            "Giá bán sau giảm": 170091
-        },
-        {
-            "STT": "126",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032537",
-            "Tên sản phẩm": "NƯỚC SÁT KHUẨN STERIPLANT DẠNG XỊT 60ML",
-            "Giá bán": 75000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 7500,
-            "Giá bán sau giảm": 67500
-        },
-        {
-            "STT": "127",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500674",
-            "Tên sản phẩm": "PIN FUJITSU ALKALINE LR03 (2B) FU-W-FI - AAA",
-            "Giá bán": 28000,
-            "Đơn vị bán": "Vỉ",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 2800,
-            "Giá bán sau giảm": 25200
-        },
-        {
-            "STT": "128",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500675",
-            "Tên sản phẩm": "PIN FUJITSU ALKALINE LR03 (4B) FU-W-FI - AAA",
-            "Giá bán": 55000,
-            "Đơn vị bán": "Vỉ",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 5500,
-            "Giá bán sau giảm": 49500
-        },
-        {
-            "STT": "129",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500671",
-            "Tên sản phẩm": "PIN FUJITSU ALKALINE LR6 (2B) FU-W-FI - AA",
-            "Giá bán": 28000,
-            "Đơn vị bán": "Vỉ",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 2800,
-            "Giá bán sau giảm": 25200
-        },
-        {
-            "STT": "130",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00500673",
-            "Tên sản phẩm": "PIN FUJITSU ALKALINE LR6 (4B) FU-W-FI - AA",
-            "Giá bán": 55000,
-            "Đơn vị bán": "Vỉ",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 5500,
-            "Giá bán sau giảm": "49500đ"
-        },
-        {
-            "STT": "131",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00501173",
-            "Tên sản phẩm": "TÚI Y TẾ 1LIFE 100G",
-            "Giá bán": 88990,
-            "Đơn vị bán": "Cái",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 8899,
-            "Giá bán sau giảm": 80091
-        },
-        {
-            "STT": "132",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033279",
-            "Tên sản phẩm": "XỊT MŨI MUỐI BIỂN NANO SEA SPRAY NGƯỜI LỚN 75ML",
-            "Giá bán": 26990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 2699,
-            "Giá bán sau giảm": 24291
-        },
-        {
-            "STT": "133",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033565",
-            "Tên sản phẩm": "MÁY ĐO NỒNG ĐỘ OXY TRONG MÁU SPO2 METECH - PC - 60A",
-            "Giá bán": 398990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 39899,
-            "Giá bán sau giảm": 359091
-        },
-        {
-            "STT": "134",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033218",
-            "Tên sản phẩm": "MÁY ĐO NỒNG ĐỘ OXY TRONG MÁU SPO2 JUMPER JPD 500D LED",
-            "Giá bán": 490000,
-            "Đơn vị bán": "Cái",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 49000,
-            "Giá bán sau giảm": 441000
-        },
-        {
-            "STT": "135",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033219",
-            "Tên sản phẩm": "MÁY ĐO NỒNG ĐỘ OXY TRONG MÁU SPO2 JUMPER JPD 500D OLED",
-            "Giá bán": 525000,
-            "Đơn vị bán": "Cái",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 52500,
-            "Giá bán sau giảm": 472500
-        },
-        {
-            "STT": "136",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033526",
-            "Tên sản phẩm": "MÁY ĐO NỒNG ĐỘ OXY TRONG MÁU SPO2 JUMPER JPD 500E LED",
-            "Giá bán": 490000,
-            "Đơn vị bán": "Cái",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 49000,
-            "Giá bán sau giảm": 441000
-        },
-        {
-            "STT": "137",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00029910",
-            "Tên sản phẩm": "MÁY ĐO HUYẾT ÁP BẮP TAY TỰ ĐỘNG MICROLIFE BP A2 BASIC",
-            "Giá bán": 1049990,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 104999,
-            "Giá bán sau giảm": 944991
-        },
-        {
-            "STT": "138",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00032725",
-            "Tên sản phẩm": "MÁY ĐO HUYẾT ÁP BẮP TAY MICROLIFE B2 BASIC",
-            "Giá bán": 1120000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 112000,
-            "Giá bán sau giảm": 1008000
-        },
-        {
-            "STT": "139",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00028635",
-            "Tên sản phẩm": "MÁY ĐO ĐƯỜNG HUYẾT TỰ ĐỘNG MEDIUSA GM3300",
-            "Giá bán": 1139000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 113900,
-            "Giá bán sau giảm": 1025100
-        },
-        {
-            "STT": "140",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00021989",
-            "Tên sản phẩm": "BĂNG KEO CUỘN GIẤY YOUNG PLASTER-PAPER 125CMX 5M",
-            "Giá bán": 11000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 1100,
-            "Giá bán sau giảm": 9900
-        },
-        {
-            "STT": "141",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00030071",
-            "Tên sản phẩm": "BĂNG KEO CÁ NHÂN MÀU DA ACE BAND-S(SHEER) 72X18MM",
-            "Giá bán": 11000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 1100,
-            "Giá bán sau giảm": 9900
-        },
-        {
-            "STT": "142",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033220",
-            "Tên sản phẩm": "BÌNH XỊT MŨI KHÁNG VIRUS VIRALEZE 10ML",
-            "Giá bán": 350000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 35000,
-            "Giá bán sau giảm": 315000
-        },
-        {
-            "STT": "143",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00008491",
-            "Tên sản phẩm": "ACNES CREAMY WASH 3S ROHTO 100G - KEM RỬA MẶT NGĂN NGỪA MỤN KHÁNG KHUẨN",
-            "Giá bán": 61000,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6100,
-            "Giá bán sau giảm": 54900
-        },
-        {
-            "STT": "144",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00006635",
-            "Tên sản phẩm": "DẦU GỘI CHỐNG GÀU SELSUN ROHTO 100ML",
-            "Giá bán": 90990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 9099,
-            "Giá bán sau giảm": 81891
-        },
-        {
-            "STT": "145",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00006636",
-            "Tên sản phẩm": "DẦU GỘI CHỐNG GÀU SELSUN ROHTO 50ML",
-            "Giá bán": 55000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 5500,
-            "Giá bán sau giảm": 49500
-        },
-        {
-            "STT": "146",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00000487",
-            "Tên sản phẩm": "ACNES C10 ROHTO 15ML - DUNG DỊCH LÀM MỜ SẸO THÂM",
-            "Giá bán": 314000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 31400,
-            "Giá bán sau giảm": 282600
-        },
-        {
-            "STT": "147",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00000485",
-            "Tên sản phẩm": "ACNES SCAR CARE ROHTO 12G - GEL MỜ THÂM LIỀN SẸO",
-            "Giá bán": 68990,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6899,
-            "Giá bán sau giảm": 62091
-        },
-        {
-            "STT": "148",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00013524",
-            "Tên sản phẩm": "DẦU XẢ SELSUN ROHTO DƯỠNG TÓC NGĂN NGỪA GÀU 100ML",
-            "Giá bán": 52000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 5200,
-            "Giá bán sau giảm": 46800
-        },
-        {
-            "STT": "149",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033500",
-            "Tên sản phẩm": "KEM CHỐNG NẮNG DẠNG SỮA CHO MẶT CỔ VAI SUNPLAY SKIN AQUA TONE UP MILK LAVENDER 50G SPF50+ PA++++",
-            "Giá bán": 185000,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 18500,
-            "Giá bán sau giảm": 166500
-        },
-        {
-            "STT": "150",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00008506",
-            "Tên sản phẩm": "SUNPLAY SKIN AQUA SPF50+ CLEAR WHITE 25G - SỮA CHỐNG NẮNG DƯỠNG DA TRẮNG MỊN",
-            "Giá bán": 105000,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 10500,
-            "Giá bán sau giảm": 94500
-        },
-        {
-            "STT": "151",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00016767",
-            "Tên sản phẩm": "NOSE WASH ROHTO 400ML - BỘ VỆ SINH MŨI KHÔNG BAO GỒM BÌNH",
-            "Giá bán": 60000,
-            "Đơn vị bán": "Hộp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 6000,
-            "Giá bán sau giảm": 54000
-        },
-        {
-            "STT": "152",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033832",
-            "Tên sản phẩm": "CETAPHIL SỮA TẮM GỘI TRẺ EM TINH CHẤT HOA CÚC BABY WASH AND SHAMPOO WITH ORGANIC CALENDULA 230ML",
-            "Giá bán": 187000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 18700,
-            "Giá bán sau giảm": 168300
-        },
-        {
-            "STT": "153",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00033833",
-            "Tên sản phẩm": "CETAPHIL SỮA TẮM GỘI TRẺ EM TINH CHẤT HOA CÚC BABY WASH AND SHAMPOO WITH ORGANIC CALENDULA 400ML",
-            "Giá bán": 243990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 24399,
-            "Giá bán sau giảm": 219591
-        },
-        {
-            "STT": "154",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00014448",
-            "Tên sản phẩm": "CETAPHIL BABY DAILY LOTION FACE AND BODY 400ML - SỮA DƯỠNG ẨM TOÀN THÂN CHO BÉ",
-            "Giá bán": 209990,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 20999,
-            "Giá bán sau giảm": 188991
-        },
-        {
-            "STT": "155",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00002916",
-            "Tên sản phẩm": "EUCERIN PH5 WASHLOTION 200ML 63071 - SỮA TẮM CHO DA NHẠY CẢM",
-            "Giá bán": 165000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 16500,
-            "Giá bán sau giảm": 148500
-        },
-        {
-            "STT": "156",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00008543",
-            "Tên sản phẩm": "EUCERIN SUN DRY TOUCH OIL CONTROL SPF50+ 50ML 69767 - KEM CHỐNG NẮNG KIỂM SOÁT NHỜN",
-            "Giá bán": 549000,
-            "Đơn vị bán": "Tuýp",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 54900,
-            "Giá bán sau giảm": 494100
-        },
-        {
-            "STT": "157",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00017279",
-            "Tên sản phẩm": "EUCERIN PRO ACNE CLEANSING GEL 200ML 88970 - GEL RỬA MẶT DÀNH CHO DA NHỜN MỤN",
-            "Giá bán": 369000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 36900,
-            "Giá bán sau giảm": 332100
-        },
-        {
-            "STT": "158",
-            "Tên CTKM": "ĐIỂM 10 SỨC KHOẺ - X2 ƯU ĐÃI",
-            "Phạm vi áp dụng": "Toàn Quốc",
-            "Thời gian": "1/10 - 11/10",
-            "Mã SP": "00017368",
-            "Tên sản phẩm": "EUCERIN PRO ACNE MAKE UP CLEANSING WATER 200ML 87926 - NƯỚC TẨY TRANG",
-            "Giá bán": 349000,
-            "Đơn vị bán": "Chai",
-            "CTKM": "Giảm 10%",
-            "Số tiền giảm": 34900,
-            "Giá bán sau giảm": 314100
-        },
-        {
-            "STT": "159",
+            "STT": "28",
             "Tên CTKM": "CTKM NATURE'S WAY THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2019,7 +332,7 @@
             "Giá bán sau giảm": 265500
         },
         {
-            "STT": "160",
+            "STT": "29",
             "Tên CTKM": "CTKM NATURE'S WAY THÁNG 11",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2030,7 +343,7 @@
             "Giá bán sau giảm": 261000
         },
         {
-            "STT": "161",
+            "STT": "30",
             "Tên CTKM": "CTKM NATURE'S WAY THÁNG 12",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2041,7 +354,7 @@
             "Giá bán sau giảm": 265500
         },
         {
-            "STT": "162",
+            "STT": "31",
             "Tên CTKM": "CTKM NATURE'S WAY THÁNG 13",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2052,7 +365,7 @@
             "Giá bán sau giảm": 397800
         },
         {
-            "STT": "163",
+            "STT": "32",
             "Tên CTKM": "CTKM NATURE'S WAY THÁNG 14",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2063,7 +376,7 @@
             "Giá bán sau giảm": 397800
         },
         {
-            "STT": "164",
+            "STT": "33",
             "Tên CTKM": "CTKM NATURE'S WAY THÁNG 15",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2074,7 +387,7 @@
             "Giá bán sau giảm": 314400
         },
         {
-            "STT": "165",
+            "STT": "34",
             "Tên CTKM": "CTKM NATURE'S WAY THÁNG 16",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2085,7 +398,7 @@
             "Giá bán sau giảm": 396000
         },
         {
-            "STT": "166",
+            "STT": "35",
             "Tên CTKM": "CTKM PHARMATON THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2096,7 +409,7 @@
             "Giá bán sau giảm": 202000
         },
         {
-            "STT": "167",
+            "STT": "36",
             "Tên CTKM": "CTKM PHARMATON THÁNG 11",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2107,7 +420,7 @@
             "Giá bán sau giảm": 183000
         },
         {
-            "STT": "168",
+            "STT": "37",
             "Tên CTKM": "CTKM REDOXON THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2118,7 +431,7 @@
             "Giá bán sau giảm": 49000
         },
         {
-            "STT": "169",
+            "STT": "38",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2129,7 +442,7 @@
             "Giá bán sau giảm": 380000
         },
         {
-            "STT": "170",
+            "STT": "39",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2140,7 +453,7 @@
             "Giá bán sau giảm": 389000
         },
         {
-            "STT": "171",
+            "STT": "40",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2151,7 +464,7 @@
             "Giá bán sau giảm": 310000
         },
         {
-            "STT": "172",
+            "STT": "41",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2162,7 +475,7 @@
             "Giá bán sau giảm": 302000
         },
         {
-            "STT": "173",
+            "STT": "42",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2173,7 +486,7 @@
             "Giá bán sau giảm": 268000
         },
         {
-            "STT": "174",
+            "STT": "43",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2184,7 +497,7 @@
             "Giá bán sau giảm": 268000
         },
         {
-            "STT": "175",
+            "STT": "44",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2195,7 +508,7 @@
             "Giá bán sau giảm": 380000
         },
         {
-            "STT": "176",
+            "STT": "45",
             "Tên CTKM": "CTKM BRAUER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2206,7 +519,7 @@
             "Giá bán sau giảm": 268000
         },
         {
-            "STT": "177",
+            "STT": "46",
             "Tên CTKM": "CTKM VITADAIRY THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2219,7 +532,7 @@
             "Giá bán sau giảm": 200000
         },
         {
-            "STT": "178",
+            "STT": "47",
             "Tên CTKM": "CTKM VITADAIRY THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2232,7 +545,7 @@
             "Giá bán sau giảm": 206000
         },
         {
-            "STT": "179",
+            "STT": "48",
             "Tên CTKM": "CTKM VITADAIRY THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2245,7 +558,7 @@
             "Giá bán sau giảm": 200000
         },
         {
-            "STT": "180",
+            "STT": "49",
             "Tên CTKM": "CTKM VITADAIRY THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2258,7 +571,7 @@
             "Giá bán sau giảm": 206000
         },
         {
-            "STT": "181",
+            "STT": "50",
             "Tên CTKM": "CTKM VITADAIRY THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2271,7 +584,7 @@
             "Giá bán sau giảm": 459000
         },
         {
-            "STT": "182",
+            "STT": "51",
             "Tên CTKM": "CTKM VITADAIRY THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2284,7 +597,7 @@
             "Giá bán sau giảm": 248000
         },
         {
-            "STT": "183",
+            "STT": "52",
             "Tên CTKM": "CTKM ELEVIT THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2296,7 +609,7 @@
             "Giá bán sau giảm": 287000
         },
         {
-            "STT": "184",
+            "STT": "53",
             "Tên CTKM": "CTKM OYSTER THÁNG 10",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "1/10 - 31/10",
@@ -2308,15 +621,18 @@
             "Giá bán sau giảm": 395000
         },
         {
-            "STT": "185",
+            "STT": "54",
             "Tên CTKM": "CTKM MUA 1+1 : MUA 1 TÚI CHƯỜM ĐA NĂNG THIÊN THANH TẶNG 1 MIẾNG DÁN SƯỞI ẤM THIÊN THANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "01102022 – 28022023",
             "Mã SP": "00029207",
-            "Tên sản phẩm": "Túi chườm đa năng Thiên Thanh loại nhỏ sưởi ấm, giảm đau",
-            "CTKM": "Tặng 1 miếng dán sưởi ấm Thiên Thanh"
+            "Tên sản phẩm": "Túi chườm đa năng Thiên Thanh loại nhỏ sưởi ấm giảm đau",
+            "Giá bán": 130000,
+            "CTKM": "Tặng 1 miếng dán sưởi ấm Thiên Thanh",
+            "Giá bán sau giảm": 130000
         },
         {
+            "STT": "55",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2329,6 +645,7 @@
             "Giá bán sau giảm": 23500
         },
         {
+            "STT": "56",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2341,6 +658,7 @@
             "Giá bán sau giảm": 13000
         },
         {
+            "STT": "57",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2353,6 +671,7 @@
             "Giá bán sau giảm": 12500
         },
         {
+            "STT": "58",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2365,6 +684,7 @@
             "Giá bán sau giảm": 14000
         },
         {
+            "STT": "59",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2377,6 +697,7 @@
             "Giá bán sau giảm": 14000
         },
         {
+            "STT": "60",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2389,6 +710,7 @@
             "Giá bán sau giảm": 14000
         },
         {
+            "STT": "61",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2401,6 +723,7 @@
             "Giá bán sau giảm": 21000
         },
         {
+            "STT": "62",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2413,6 +736,7 @@
             "Giá bán sau giảm": 33000
         },
         {
+            "STT": "63",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2425,6 +749,7 @@
             "Giá bán sau giảm": 32000
         },
         {
+            "STT": "64",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2437,6 +762,7 @@
             "Giá bán sau giảm": 531000
         },
         {
+            "STT": "65",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2449,6 +775,7 @@
             "Giá bán sau giảm": 86500
         },
         {
+            "STT": "66",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2461,11 +788,12 @@
             "Giá bán sau giảm": 22000
         },
         {
+            "STT": "67",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
             "Mã SP": "00014100",
-            "Tên sản phẩm": "HOBEZUT KHÔNG ĐƯỜNG 5X4 - KẸO NGẬM GIẢM HO, ĐAU HỌNG",
+            "Tên sản phẩm": "HOBEZUT KHÔNG ĐƯỜNG 5X4 - KẸO NGẬM GIẢM HO ĐAU HỌNG",
             "Giá bán": 59000,
             "Đơn vị bán": "Hộp",
             "CTKM": "giảm 10%",
@@ -2473,6 +801,7 @@
             "Giá bán sau giảm": 53000
         },
         {
+            "STT": "68",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2485,6 +814,7 @@
             "Giá bán sau giảm": 34000
         },
         {
+            "STT": "69",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2497,6 +827,7 @@
             "Giá bán sau giảm": 34500
         },
         {
+            "STT": "70",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2509,6 +840,7 @@
             "Giá bán sau giảm": 34500
         },
         {
+            "STT": "71",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2521,6 +853,7 @@
             "Giá bán sau giảm": 15300
         },
         {
+            "STT": "72",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2533,6 +866,7 @@
             "Giá bán sau giảm": 16000
         },
         {
+            "STT": "73",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2545,11 +879,12 @@
             "Giá bán sau giảm": 15500
         },
         {
+            "STT": "74",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
             "Mã SP": "00030318",
-            "Tên sản phẩm": "KẸO GUM TRIDENT ICE VỊ CHANH 8 VIÊN 11,2G",
+            "Tên sản phẩm": "KẸO GUM TRIDENT ICE VỊ CHANH 8 VIÊN 112G",
             "Giá bán": 6500,
             "Đơn vị bán": "Vỉ",
             "CTKM": "giảm 10%",
@@ -2557,11 +892,12 @@
             "Giá bán sau giảm": 5500
         },
         {
+            "STT": "75",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
             "Mã SP": "00030318",
-            "Tên sản phẩm": "KẸO GUM TRIDENT ICE VỊ CHANH 8 VIÊN 11,2G",
+            "Tên sản phẩm": "KẸO GUM TRIDENT ICE VỊ CHANH 8 VIÊN 112G",
             "Giá bán": 6500,
             "Đơn vị bán": "Vỉ",
             "CTKM": "giảm 10%",
@@ -2569,11 +905,12 @@
             "Giá bán sau giảm": 5500
         },
         {
+            "STT": "76",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
             "Mã SP": "00030317",
-            "Tên sản phẩm": "KẸO GUM TRIDENT ICE VỊ CHERY 8 VIÊN 11,2G",
+            "Tên sản phẩm": "KẸO GUM TRIDENT ICE VỊ CHERY 8 VIÊN 112G",
             "Giá bán": 6500,
             "Đơn vị bán": "Vỉ",
             "CTKM": "giảm 10%",
@@ -2581,6 +918,7 @@
             "Giá bán sau giảm": 5500
         },
         {
+            "STT": "77",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2593,6 +931,7 @@
             "Giá bán sau giảm": 14500
         },
         {
+            "STT": "78",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2605,6 +944,7 @@
             "Giá bán sau giảm": 31500
         },
         {
+            "STT": "79",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2617,6 +957,7 @@
             "Giá bán sau giảm": 31500
         },
         {
+            "STT": "80",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2629,6 +970,7 @@
             "Giá bán sau giảm": 17000
         },
         {
+            "STT": "81",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2641,6 +983,7 @@
             "Giá bán sau giảm": 17000
         },
         {
+            "STT": "82",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2653,6 +996,7 @@
             "Giá bán sau giảm": 31500
         },
         {
+            "STT": "83",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2665,6 +1009,7 @@
             "Giá bán sau giảm": 31500
         },
         {
+            "STT": "84",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2677,6 +1022,7 @@
             "Giá bán sau giảm": 31500
         },
         {
+            "STT": "85",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2689,18 +1035,20 @@
             "Giá bán sau giảm": 19000
         },
         {
+            "STT": "86",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
             "Mã SP": "00028308",
             "Tên sản phẩm": "KẸO THE VỊ DƯA HẤU PLAYMORE - HỘP 6 HŨ",
-            "Giá bán": 180000,
+            "Giá bán": 30000,
             "Đơn vị bán": "Hộp",
             "CTKM": "giảm 10%",
             "Số tiền giảm": 18000,
-            "Giá bán sau giảm": 162000
+            "Giá bán sau giảm": 27000
         },
         {
+            "STT": "87",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2713,6 +1061,7 @@
             "Giá bán sau giảm": 7200
         },
         {
+            "STT": "88",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2725,6 +1074,7 @@
             "Giá bán sau giảm": 27000
         },
         {
+            "STT": "89",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2737,6 +1087,7 @@
             "Giá bán sau giảm": 31500
         },
         {
+            "STT": "90",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2749,6 +1100,7 @@
             "Giá bán sau giảm": 5000
         },
         {
+            "STT": "91",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2761,6 +1113,7 @@
             "Giá bán sau giảm": 7500
         },
         {
+            "STT": "92",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2773,6 +1126,7 @@
             "Giá bán sau giảm": 99000
         },
         {
+            "STT": "93",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2785,6 +1139,7 @@
             "Giá bán sau giảm": 156000
         },
         {
+            "STT": "94",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2797,6 +1152,7 @@
             "Giá bán sau giảm": 156000
         },
         {
+            "STT": "95",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2809,6 +1165,7 @@
             "Giá bán sau giảm": 31500
         },
         {
+            "STT": "96",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2821,6 +1178,7 @@
             "Giá bán sau giảm": 49500
         },
         {
+            "STT": "97",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2833,6 +1191,7 @@
             "Giá bán sau giảm": 9000
         },
         {
+            "STT": "98",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2845,6 +1204,7 @@
             "Giá bán sau giảm": 9000
         },
         {
+            "STT": "99",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2857,6 +1217,7 @@
             "Giá bán sau giảm": 40500
         },
         {
+            "STT": "100",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2869,6 +1230,7 @@
             "Giá bán sau giảm": 207000
         },
         {
+            "STT": "101",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2881,6 +1243,7 @@
             "Giá bán sau giảm": 35000
         },
         {
+            "STT": "102",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2893,6 +1256,7 @@
             "Giá bán sau giảm": 234000
         },
         {
+            "STT": "103",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2905,6 +1269,7 @@
             "Giá bán sau giảm": 40500
         },
         {
+            "STT": "104",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2917,6 +1282,7 @@
             "Giá bán sau giảm": 34000
         },
         {
+            "STT": "105",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2929,6 +1295,7 @@
             "Giá bán sau giảm": 34000
         },
         {
+            "STT": "106",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2941,6 +1308,7 @@
             "Giá bán sau giảm": 34000
         },
         {
+            "STT": "107",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2953,6 +1321,7 @@
             "Giá bán sau giảm": 18000
         },
         {
+            "STT": "108",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2965,6 +1334,7 @@
             "Giá bán sau giảm": 17500
         },
         {
+            "STT": "109",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2977,6 +1347,7 @@
             "Giá bán sau giảm": 3000
         },
         {
+            "STT": "110",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -2989,6 +1360,7 @@
             "Giá bán sau giảm": 11700
         },
         {
+            "STT": "111",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3001,6 +1373,7 @@
             "Giá bán sau giảm": 41000
         },
         {
+            "STT": "112",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3013,6 +1386,7 @@
             "Giá bán sau giảm": 41000
         },
         {
+            "STT": "113",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3025,6 +1399,7 @@
             "Giá bán sau giảm": 62000
         },
         {
+            "STT": "114",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3037,6 +1412,7 @@
             "Giá bán sau giảm": 107000
         },
         {
+            "STT": "115",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3049,6 +1425,7 @@
             "Giá bán sau giảm": 62000
         },
         {
+            "STT": "116",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3061,6 +1438,7 @@
             "Giá bán sau giảm": 62000
         },
         {
+            "STT": "117",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3073,6 +1451,7 @@
             "Giá bán sau giảm": 179000
         },
         {
+            "STT": "118",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3085,6 +1464,7 @@
             "Giá bán sau giảm": 62000
         },
         {
+            "STT": "119",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3097,6 +1477,7 @@
             "Giá bán sau giảm": 58500
         },
         {
+            "STT": "120",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3109,6 +1490,7 @@
             "Giá bán sau giảm": 62000
         },
         {
+            "STT": "121",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3121,6 +1503,7 @@
             "Giá bán sau giảm": 314000
         },
         {
+            "STT": "122",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3133,6 +1516,7 @@
             "Giá bán sau giảm": 119000
         },
         {
+            "STT": "123",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3145,6 +1529,7 @@
             "Giá bán sau giảm": 220500
         },
         {
+            "STT": "124",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3157,6 +1542,7 @@
             "Giá bán sau giảm": 121500
         },
         {
+            "STT": "125",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3169,6 +1555,7 @@
             "Giá bán sau giảm": 216000
         },
         {
+            "STT": "126",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3181,11 +1568,12 @@
             "Giá bán sau giảm": 8000
         },
         {
+            "STT": "127",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
             "Mã SP": "00022610",
-            "Tên sản phẩm": "VIÊN NGẬM THANH HỌNG BEZUT KHÔNG ĐƯỜNG 5X4 - KẸO NGẬM GIẢM HO, ĐAU HỌNG",
+            "Tên sản phẩm": "VIÊN NGẬM THANH HỌNG BEZUT KHÔNG ĐƯỜNG 5X4 - KẸO NGẬM GIẢM HO ĐAU HỌNG",
             "Giá bán": 55000,
             "Đơn vị bán": "Hộp",
             "CTKM": "giảm 10%",
@@ -3193,6 +1581,7 @@
             "Giá bán sau giảm": 49500
         },
         {
+            "STT": "128",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3205,6 +1594,7 @@
             "Giá bán sau giảm": 212000
         },
         {
+            "STT": "129",
             "Tên CTKM": "CHƯƠNG TRÌNH KHUYẾN MẠI THÁNG 10 HÀNG TIÊU DÙNG NHANH",
             "Phạm vi áp dụng": "Toàn Quốc",
             "Thời gian": "7/10 - 31/10",
@@ -3215,6 +1605,291 @@
             "CTKM": "giảm 10%",
             "Số tiền giảm": 23500,
             "Giá bán sau giảm": 212000
+        },
+        {
+            "STT": "130",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00014964",
+            "Tên sản phẩm": "KEM DƯỠNG DA KHÔ NỨT NẺ DO THỜI TIẾT HĂM TẢ TRẺ EM FIXDERMA CLEOVERA CREAM 60G",
+            "Giá bán": 209000,
+            "Đơn vị bán": "Tuýp",
+            "CTKM": "Tặng voucher 20.000đ/Hộp",
+            "Giá bán sau giảm": 209000
+        },
+        {
+            "STT": "131",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00016490",
+            "Tên sản phẩm": "SỮA RỬA MẶT LÀM SẠCH SÂU CHO DA NHỜN DA NHẠY CẢM DA MỤN FIXDERMA NONDRYING CLEANSER 60G/2.1OZ 60GR",
+            "Giá bán": 204000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Tặng voucher 20.000đ/Hộp",
+            "Giá bán sau giảm": 204000
+        },
+        {
+            "STT": "132",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00017302",
+            "Tên sản phẩm": "GEL TRỊ MỤN FIXDERMA SALYZAP GEL DAY TIME 20G",
+            "Giá bán": 300000,
+            "Đơn vị bán": "Tuýp",
+            "CTKM": "Tặng voucher 20.000đ/Hộp",
+            "Giá bán sau giảm": 300000
+        },
+        {
+            "STT": "133",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00031751",
+            "Tên sản phẩm": "CUNG CẤP ĐỘ ẨM MỀM DA GÓT CHÂN FIXDERMA FOOT CREAM 60G",
+            "Giá bán": 210000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Mua 1 tặng 1 cùng loại (Kho hàng thường)",
+            "Giá bán sau giảm": 210000
+        },
+        {
+            "STT": "134",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "000501175",
+            "Tên sản phẩm": "SỮA DƯỠNG THỂ GIẢM RẠN DA CHO PHỤ NỮ MANG THAI VÀ SAU SINH FIXDERMA PREGGERS ELASTICITY LOTION 100ML",
+            "Giá bán": 299000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Mua 1 tặng 1 cùng loại (Kho hàng thường)",
+            "Giá bán sau giảm": 299000
+        },
+        {
+            "STT": "135",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00029919",
+            "Tên sản phẩm": "XÀ BÔNG TRỊ MỤN GIẢM VẾT THÂM MỤN ĐEN FIXDERMA SALYZAP SOAP 75G",
+            "Giá bán": 91000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 91000
+        },
+        {
+            "STT": "136",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00031116",
+            "Tên sản phẩm": "SỮA RỬA MẶT NGĂN NGỪA VÀ GIẢM MỤN TRỨNG CÁ MỤN ĐẦU ĐEN FIXDERMA FCL ALPHA-BETA ACNE CLEANSER 200ML",
+            "Giá bán": 584000,
+            "Đơn vị bán": "Chai",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 584000
+        },
+        {
+            "STT": "137",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00029928",
+            "Tên sản phẩm": "GEL CHĂM SÓC DA MẶT DÀNH CHO DA MỤN TRỨNG CÁ VÀ MỤN ĐẦU ĐEN FIXDERMA FCL ALPHA-BETA ACNE GEL 30ML",
+            "Giá bán": 546000,
+            "Đơn vị bán": "Chai",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 546000
+        },
+        {
+            "STT": "138",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00029922",
+            "Tên sản phẩm": "XÀ BÔNG DƯỠNG DA DÀNH CHO DA KHÔ DA NHẠY CẢM FIXDERMA MOISTURIZING BAR 100G",
+            "Giá bán": 150000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 150000
+        },
+        {
+            "STT": "139",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00029926",
+            "Tên sản phẩm": "SERUM DƯỠNG DA NGĂN NGỪA LÃO HÓA DA FIXDERMA RETICURAM SERUM 15ML",
+            "Giá bán": 439000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 439000
+        },
+        {
+            "STT": "140",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00029921",
+            "Tên sản phẩm": "XÀ BÔNG LÀM MỜ THÂM NÁM TÀN NHANG FIXDERMA EPIFAGER SOAP 75G",
+            "Giá bán": 118000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 118000
+        },
+        {
+            "STT": "141",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00029927",
+            "Tên sản phẩm": "DẦU GỘI ĐẶC TRỊ GÀU FIXDERMA FCL T-SHAMPOO 200ML",
+            "Giá bán": 499000,
+            "Đơn vị bán": "Chai",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 499000
+        },
+        {
+            "STT": "142",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00029925",
+            "Tên sản phẩm": "SỮA TẮM DƯỠNG ẨM DÀNH CHO DA KHÔ NGỨA NHẠY CẢM FIXDERMA FCL OATSILK SOAP FREE BODY WASH 200ML",
+            "Giá bán": 380000,
+            "Đơn vị bán": "Tuýp",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 380000
+        },
+        {
+            "STT": "143",
+            "Tên CTKM": "TRIỂN KHAI CTKM FIXDERMA THÁNG 10/2022",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "10/10 - 31/10",
+            "Mã SP": "00031117",
+            "Tên sản phẩm": "LOTION DƯỠNG ẨM CÂN BẰNG ĐỘ ẨM CHO DA FIXDERMA FCL OAT SILK BODY LOTION 200ML",
+            "Giá bán": 450000,
+            "Đơn vị bán": "Tuýp",
+            "CTKM": "Mua 1 tặng 1 FIXDERMA LIP BALM 15ML - SON DƯỠNG MÔI (Mã SP: 00031752) (Kho hàng thường)",
+            "Giá bán sau giảm": 450000
+        },
+        {
+            "STT": "144",
+            "Tên CTKM": "TRIỂN KHAI HÀNG HOT + ĐIỂM THƯỞNG + CTKM HẤP DẪN NHÓM SP ĐIỀU TRỊ BỎNG  VIẾT THƯƠNG HYALO4 - ITALIA",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "14/10 - 10/11",
+            "Mã SP": "00502309",
+            "Tên sản phẩm": "HYALO4 SLIVER SPRAY 50ML",
+            "Giá bán": 549000,
+            "CTKM": "- Tặng voucher giảm giá 5% áp dụng đến 10/11",
+            "Giá bán sau giảm": "549000"
+        },
+        {
+            "STT": "145",
+            "Tên CTKM": "TRIỂN KHAI HÀNG HOT + ĐIỂM THƯỞNG + CTKM HẤP DẪN NHÓM SP ĐIỀU TRỊ BỎNG  VIẾT THƯƠNG HYALO4 - ITALIA",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "14/10 - 10/11",
+            "Mã SP": "00502308",
+            "Tên sản phẩm": "HYALO4 PLUS 25G",
+            "Giá bán": 425000,
+            "CTKM": "- Tặng voucher giảm giá 5% áp dụng đến 10/11",
+            "Giá bán sau giảm": "425000"
+        },
+        {
+            "STT": "146",
+            "Tên CTKM": "TRIỂN KHAI HÀNG HOT + ĐIỂM THƯỞNG + CTKM HẤP DẪN NHÓM SP ĐIỀU TRỊ BỎNG  VIẾT THƯƠNG HYALO4 - ITALIA",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "14/10 - 10/11",
+            "Mã SP": "00502307",
+            "Tên sản phẩm": "HYALO4 SKIN 30G",
+            "Giá bán": 439000,
+            "CTKM": "- Tặng voucher giảm giá 5% áp dụng đến 10/11",
+            "Giá bán sau giảm": "439000"
+        },
+        {
+            "STT": "147",
+            "Tên CTKM": "TRIỂN KHAI CTKM NHÀ CUNG CẤP TRƯỜNG TÍN",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "13/10 - 31/10",
+            "Mã SP": "00015040",
+            "Tên sản phẩm": "DẦU DƯỠNG TRỊ RẠN DA - BIO OIL SKINCARE OIL MEGA 60ML",
+            "Giá bán": 189000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Giảm 10000",
+            "Giá bán sau giảm": 179000
+        },
+        {
+            "STT": "148",
+            "Tên CTKM": "TRIỂN KHAI CTKM NHÀ CUNG CẤP TRƯỜNG TÍN",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "13/10 - 31/10",
+            "Mã SP": "00017605",
+            "Tên sản phẩm": "DẦU DƯỠNG TRỊ RẠN DA - BIO OIL SKINCARE OIL MEGA 125ML",
+            "Giá bán": 319000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Giảm 20000",
+            "Giá bán sau giảm": 299000
+        },
+        {
+            "STT": "149",
+            "Tên CTKM": "TRIỂN KHAI CTKM NHÀ CUNG CẤP TRƯỜNG TÍN",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "13/10 - 31/10",
+            "Mã SP": "00029256",
+            "Tên sản phẩm": "TINH CHẤT DƯỠNG TRẮNG DA - NNO VITE APLICAPZ WHITENING SERUM MEGA 3X10",
+            "Giá bán": 360000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Giảm 18000",
+            "Giá bán sau giảm": 342000
+        },
+        {
+            "STT": "150",
+            "Tên CTKM": "TRIỂN KHAI CTKM NHÀ CUNG CẤP TRƯỜNG TÍN",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "13/10 - 31/10",
+            "Mã SP": "00029257",
+            "Tên sản phẩm": "DẦU DƯỠNG DA BAN ĐÊM - NNO NOURISHING NIGHT OIL MEGA 3X10",
+            "Giá bán": 150000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Giảm 7500",
+            "Giá bán sau giảm": 142500
+        },
+        {
+            "STT": "151",
+            "Tên CTKM": "TRIỂN KHAI CTKM NHÀ CUNG CẤP TRƯỜNG TÍN",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "13/10 - 31/10",
+            "Mã SP": "00500692",
+            "Tên sản phẩm": "TINH CHẤT DƯỠNG TÓC - NNO HAIR SERUM APLICAPZ MEGA 3X5",
+            "Giá bán": 230000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Giảm 46000",
+            "Giá bán sau giảm": 184000
+        },
+        {
+            "STT": "152",
+            "Tên CTKM": "TRIỂN KHAI CTKM NHÀ CUNG CẤP TRƯỜNG TÍN",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "13/10 - 31/10",
+            "Mã SP": "00500605",
+            "Tên sản phẩm": "SỮA DƯỠNG DA TOÀN THÂN - BIO OIL BODY LOTION MEGA 175ML",
+            "Giá bán": 229000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Giảm 36000",
+            "Giá bán sau giảm": 193000
+        },
+        {
+            "STT": "153",
+            "Tên CTKM": "TRIỂN KHAI CTKM NHÀ CUNG CẤP TRƯỜNG TÍN",
+            "Phạm vi áp dụng": "Toàn Quốc",
+            "Thời gian": "13/10 - 31/10",
+            "Mã SP": "00500606",
+            "Tên sản phẩm": "SỮA DƯỠNG DA TOÀN THÂN - BIO OIL BODY LOTION MEGA 250ML",
+            "Giá bán": 279000,
+            "Đơn vị bán": "Hộp",
+            "CTKM": "Giảm 46000",
+            "Giá bán sau giảm": 233000
         }
     ]
 }

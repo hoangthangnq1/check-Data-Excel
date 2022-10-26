@@ -50,7 +50,7 @@ class ProductInfoPage extends Page {
         await browser.pause(4000);
         await super.click(await this.iconCart);
     }
-
+    
     async roundingNumber(number) {
         let num = await number % 100;
         console.log(num)
