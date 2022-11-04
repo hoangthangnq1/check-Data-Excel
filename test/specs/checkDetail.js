@@ -20,7 +20,7 @@ describe('Web Ecom', () => {
     afterEach(async () => {
         await browser.reloadSession();
     });
-    var prodNotPromotion = ['00033674']; //truyền mã sản phẩm muốn check
+    var prodNotPromotion = ['00033673']; //truyền mã sản phẩm muốn check
     for (let i = 0; i < dataExcel['CTKM tháng 10'].length; i++) {
         if (prodNotPromotion.indexOf(dataExcel['CTKM tháng 10'][i]['Mã SP']) >= 0) {
             it('check sản phẩm ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {

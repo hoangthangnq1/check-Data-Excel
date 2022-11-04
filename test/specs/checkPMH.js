@@ -9,16 +9,16 @@ var dir = './allure-results'
 
 describe('Web Ecom', () => {
     beforeAll(async () => {
-        writeData();  
-        if (!fs.existsSync(dir)){
+        writeData();
+        if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
             console.log('tạo folder chứa ảnh thành công')
         }
         await emptyFolder(dir);
-    });   
-    var prodNotPromotion = ['00028812','00345900']; //truyền mã sản phẩm muốn check
-        for (let i = 0; i < dataExcel['CTKM tháng 10'].length; i++){
-        if (prodNotPromotion.indexOf(dataExcel['CTKM tháng 10'][i]['Mã SP'])>= 0){
+    });
+    var prodNotPromotion = ['00028812', '00345900']; //truyền mã sản phẩm muốn check
+    for (let i = 0; i < dataExcel['CTKM tháng 10'].length; i++) {
+        if (prodNotPromotion.indexOf(dataExcel['CTKM tháng 10'][i]['Mã SP']) >= 0) {
             it('check sản phẩm có PMH ' + dataExcel['CTKM tháng 10'][i]['Mã SP'], async () => {
                 await HomePage.open('https://nhathuoclongchau.com/');
                 await HomePage.searchMedicine2(dataExcel['CTKM tháng 10'][i]['Mã SP']);
@@ -27,7 +27,7 @@ describe('Web Ecom', () => {
                 await ProductInfoPage.verifyCTKM(dataExcel['CTKM tháng 10'][i]['CTKM']);
             });
         }
-    }    
+    }
 });
 //xóa ảnh TC fail lần run trước
 const emptyFolder = async (folderPath) => {
@@ -38,7 +38,7 @@ const emptyFolder = async (folderPath) => {
             await fsPromises.unlink(path.resolve(folderPath, file));
             console.log(`${folderPath}/${file} has been removed successfully`);
         }
-    } catch (err){
+    } catch (err) {
         console.log(err);
     }
 }
